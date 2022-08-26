@@ -4,6 +4,7 @@
 
 Flatiron consulting:
 Lead Data Scientist
+Stefano Caruso
 
  Microsoft's New Movie series will be a block buster!
  
