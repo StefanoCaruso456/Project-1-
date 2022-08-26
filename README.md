@@ -72,6 +72,10 @@ This chart expresses the positive gap between gross and budget.
 ![image](https://user-images.githubusercontent.com/110699702/186936554-39264771-4977-487f-b5b7-0bb30230c8f5.png)
 
 
+![image](https://user-images.githubusercontent.com/110699702/186941829-7dbb9d8d-9872-458e-98f3-d5e0af29d23b.png)
+
+
+
 Top 5 Movies Budget and ROI in Dollars
 Top 5 movies have large profits with minimal investment 
 
