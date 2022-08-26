@@ -76,9 +76,7 @@ Top 5 Movies Budget and ROI in Dollars
 Top 5 movies have large profits with minimal investment 
 
 
-![image](https://user-images.githubusercontent.com/110699702/186936633-524d7bc1-8c20-449f-9894-2b5db570f271.png)
-
-![image](https://user-images.githubusercontent.com/110699702/186938527-4211d0c9-e602-4176-91ed-f3ec6af2fc4c.png)
+![image](https://user-images.githubusercontent.com/110699702/186941654-660f1a87-3dbc-483f-8613-22522d94d0c7.png)
 
 
 
