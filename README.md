@@ -16,7 +16,7 @@ Task: Present to Microsoft on how they can penetrate the movie industry successf
 Microsoft is interested in the movie industry. Their lack of experience has led them to source
 out a specialist in the field. I will inform Microsoft of the proper steps and strategy while 
 using visualization tools, looking at historic data will allow us a clear vision and path.  
-Creation of a film series from book novels has loyal customers already following the theme. 
+Creation of a film series from book novels has a following the theme. 
 Finding a book novel series that has yet to be created into a film with an extraordinary author, this is no easy task but will lead to a positive outcome. Becoming profitable with a reasonable production budget will be revealed in the data. 
 Questions being considered:
 What are the top films with the most financial success?
